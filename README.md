@@ -1,6 +1,6 @@
 # <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/5b74532c-d307-4fc1-8bfd-ece63019e1a7" />   Walmart Sales Analytics Dashboard
 
-**Power BI | Enterprise Sales, Profitability & Forecasting Analysis (2011–2014)**
+**Power BI | Enterprise Sales, Profitability & Forecasting Analysis**
 
 A **professional, interactive Power BI dashboard** delivering actionable insights into Walmart’s multi-year sales performance. Designed for business leaders, analysts, and data-driven decision-makers to enable strategic planning and operational excellence.
 
