@@ -1,8 +1,5 @@
-# 🛒 Walmart Sales Analytics Dashboard
-
-![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-blue?style=flat-square)
-![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-orange?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+# <img width="1001" height="1001" alt="image" src="https://github.com/user-attachments/assets/5b74532c-d307-4fc1-8bfd-ece63019e1a7" />
+ Walmart Sales Analytics Dashboard
 
 **Power BI | Enterprise Sales, Profitability & Forecasting Analysis (2011–2014)**
 
@@ -23,20 +20,6 @@ This project converts raw Walmart transactional data (2011–2014) into **advanc
 
 **Download Dataset:**  
 [Walmart Sales Dataset (CSV)](https://github.com/chanchalpal13885-glitch/Walmart-Sales-Analytics-Dashboard/blob/main/Walmart_sales_dataset.csv)
-
-**Dataset Columns:**
-
-- Order ID  
-- Order Date  
-- Ship Date  
-- Customer Name  
-- Country  
-- City  
-- Category  
-- Product Name  
-- Sales  
-- Quantity  
-- Profit  
 
 ---
 
