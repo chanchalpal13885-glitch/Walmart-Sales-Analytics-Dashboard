@@ -8,7 +8,7 @@ A **professional, interactive Power BI dashboard** delivering actionable insight
 
 ## 📘 Project Overview
 
-This project converts raw Walmart transactional data (2011–2014) into **advanced business intelligence insights**, leveraging Power BI's analytical and visualization capabilities. Key outcomes include:
+This project converts raw Walmart transactional data into **advanced business intelligence insights**, leveraging Power BI's analytical and visualization capabilities. Key outcomes include:
 
 - Revenue growth analysis  
 - Profitability drivers identification  
