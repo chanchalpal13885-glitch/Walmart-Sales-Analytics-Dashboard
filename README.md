@@ -1,144 +1,156 @@
 # 🛒 Walmart Sales Analytics Dashboard
 
-**Power BI | Enterprise Sales, Profitability & Forecasting Analysis (2011–2014)**  
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-blue?style=flat-square)
+![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-orange?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-An interactive Power BI dashboard delivering actionable insights into Walmart’s multi-year sales performance, designed for business leaders, analysts, and data-driven decision-makers.
+**Power BI | Enterprise Sales, Profitability & Forecasting Analysis (2011–2014)**
 
----
-
-## 📌 Project Summary  
-
-This project transforms Walmart sales data (2011–2014) into actionable insights, highlighting trends in revenue, profit drivers, customer behavior, and future forecasts using advanced Power BI techniques. It helps decision-makers optimize product strategies, monitor top-performing categories, and predict future sales trends.
-
-**Dataset:**  
-- [Walmart Sales Dataset (CSV)](https://github.com/chanchalpal13885-glitch/Walmart-Sales-Analytics-Dashboard/blob/main/Walmart_sales_dataset.csv)  
+A **professional, interactive Power BI dashboard** delivering actionable insights into Walmart’s multi-year sales performance. Designed for business leaders, analysts, and data-driven decision-makers to enable strategic planning and operational excellence.
 
 ---
 
-## 📁 Dashboard Pages  
+## 📘 Project Overview
 
-### 1️⃣ Executive Overview  
-High-level summary of Walmart’s sales and profit performance.  
+This project converts raw Walmart transactional data (2011–2014) into **advanced business intelligence insights**, leveraging Power BI's analytical and visualization capabilities. Key outcomes include:
 
-- **Visuals:** KPI Cards (Sales, Profit, Orders), Year-wise Sales Trend, Profit by Category, Monthly Trend Line  
-- **Screenshot:** [View](https://github.com/chanchalpal13885-glitch/Walmart-Sales-Analytics-Dashboard/blob/main/01_Executive_Overview.png)  
+- Revenue growth analysis  
+- Profitability drivers identification  
+- Customer behavior segmentation  
+- Predictive sales and profit forecasting  
 
-### 2️⃣ Category & Product Analysis  
-Insights into category and product performance.  
+**Dataset Source:** Publicly available on **Kaggle**  
 
-- **Visuals:** Category-wise KPIs, Sub-category Contribution, Product-Level Revenue  
-- **Screenshot:** [View](https://github.com/chanchalpal13885-glitch/Walmart-Sales-Analytics-Dashboard/blob/main/03_Product_Category_Insights.png)  
+**Download Dataset:**  
+[Walmart Sales Dataset (CSV)](https://github.com/chanchalpal13885-glitch/Walmart-Sales-Analytics-Dashboard/blob/main/Walmart_sales_dataset.csv)
 
-### 3️⃣ Customer Insights  
-Analysis of customer purchasing behavior.  
+**Dataset Columns:**
 
-- **Insights:** Segment Distribution (Consumer, Corporate, Home Office), Avg. Order Value, Customer Profitability  
-- **Screenshot:** [View](https://github.com/chanchalpal13885-glitch/Walmart-Sales-Analytics-Dashboard/blob/main/04_Customer_Insights.png)  
-
-### 4️⃣ Forecast & Future Trends  
-Predictive insights and forecasting.  
-
-- **Visuals:** Sales Forecast Line, Profit Contribution Waterfall, Growth KPIs & Smart Narrative  
-- **Screenshot:** [View](https://github.com/chanchalpal13885-glitch/Walmart-Sales-Analytics-Dashboard/blob/main/05_Forecast_Future_Trends.png)  
+- Order ID  
+- Order Date  
+- Ship Date  
+- Customer Name  
+- Country  
+- City  
+- Category  
+- Product Name  
+- Sales  
+- Quantity  
+- Profit  
 
 ---
 
-## 📊 Dashboard Highlights  
+## 📁 Dashboard Pages & Insights
 
-- **Tool Used:** Power BI  
-- **Dataset Range:** 2011–2014  
+### 1️⃣ Executive Overview
+Provides a high-level snapshot of overall business performance.  
+
+- **Key Visuals:** Total Sales, Total Profit, Quantity Sold, Average Profit Margin, Monthly Sales Trend, Sales by Category, Regional Sales Map  
+- **Purpose:** Rapid performance assessment for leadership  
+- **Screenshot:** [View](01_Executive_Overview.png)
+
+### 2️⃣ Regional Analysis
+Evaluates performance across geographic locations.  
+
+- **Key Visuals:** Sales by Country/City, Profit Contribution, Top Locations by Sales, Location-wise Trend  
+- **Purpose:** Identify high-performing and underperforming regions  
+- **Screenshot:** [View](02_Regional_Analysis.png)
+
+### 3️⃣ Product & Category Insights
+In-depth analysis of revenue and profitability at the product and category levels.  
+
+- **Key Visuals:** Sales by Category, Profit by Category, Top Products by Sales, Discount Impact Analysis  
+- **Purpose:** Determine revenue drivers and optimize product strategy  
+- **Screenshot:** [View](03_Product_Category_Insights.png)
+
+### 4️⃣ Customer Insights
+Customer segmentation and behavioral analysis.  
+
+- **Key Visuals:** Customer Count, Sales by Customer Segment, Repeat Customers, Customer Lifetime Value  
+- **Purpose:** Understand retention, segmentation, and revenue contribution  
+- **Screenshot:** [View](04_Customer_Insights.png)
+
+### 5️⃣ Forecast & Future Trends
+Predictive insights for strategic planning.  
+
+- **Key Visuals:** Sales Forecast, Profit Variance %, Sales Growth %, Predicted Profit Margin %, Waterfall: Profit Contribution, Average Shipping Days  
+- **Purpose:** Support inventory, budget, and operational planning with predictive insights  
+- **Screenshot:** [View](05_Forecast_Future_Trends.png)
+
+---
+
+## 📊 Dashboard Highlights
+
+- **Tool:** Power BI  
+- **Data Range:** 2011–2014  
 
 **Focus Areas:**  
+
 - Sales & Profitability Analysis  
-- Category & Product Insights  
-- Customer Segmentation  
+- Location Performance (Country, City)  
+- Product & Category Insights  
+- Customer Segmentation & Retention  
 - Forecasting & Trend Modeling  
-- Executive KPI Reporting  
+- Executive KPI Monitoring  
 
 ---
 
-## 📈 Key Insights  
+## 📈 Key Insights
 
-- Technology & Office Supplies are top profit drivers  
-- Top-selling product categories generate the highest revenue  
-- Consumer segment is Walmart’s largest customer group  
-- Sales show consistent upward multi-year growth  
-- Shipping time affects profit margins  
-- Seasonal retail patterns drive monthly fluctuations  
+- **Top Profit Drivers:** Technology & Office Supplies categories  
+- **High-Revenue Locations:** Key countries and cities  
+- **Largest Customer Segment:** Consumer  
+- **Sales Trend:** Multi-year growth with seasonal fluctuations  
+- **Operational Insights:** Shipping times impact profit margins; repeat customers generate high revenue  
 
 ---
 
-## 🛠️ Skills & Techniques  
+## 🛠️ Skills & Techniques
 
 **Power BI Skills:**  
-- DAX (KPIs, Time Intelligence, Custom Measures)  
-- Geo Maps, Waterfall Charts, Drill-down Visuals  
-- Forecasting & Predictive Analytics  
-- Smart Narratives  
+
+- Advanced Data Modeling & Star Schema Design  
+- DAX (KPI Calculation, Time Intelligence, Dynamic Measures)  
+- Geo Maps, Waterfall Charts, Drill-down Interactions  
+- Forecasting & Predictive Modeling  
+- Smart Narratives & Automated Insights  
 
 **Analytical Skills:**  
-- Sales & Profit Analysis  
+
+- Multi-year Sales & Profit Analysis  
 - Category & Product Performance Evaluation  
-- Customer Behavior Insights  
+- Customer Segmentation & Lifetime Value Analysis  
 - Predictive Forecasting & Trend Interpretation  
 
 ---
 
-## ⚡ Challenges & Solutions  
+## 📂 Repository Structure
 
-| Challenge | Solution |
-|-----------|---------|
-| Multi-year sales data | Organized and cleaned the dataset for effective analysis |
-| Forecasting with seasonal patterns | Applied **time-intelligence DAX measures** and Power BI forecasting |
-| Complex product/customer data | Designed **interactive dashboards with slicers, drill-downs, and waterfall charts** |
-| Identifying top profit drivers | Used **KPIs and category-level profit analysis** for actionable insights |
-
----
-
-## 💼 Business Impact  
-
-- Identify **high-performing categories and products**  
-- Optimize **inventory and product strategies**  
-- Enable **forecast-based planning** for sales and stock management  
-- Support **data-driven strategic decisions** for growth and profitability  
-
----
-
-## 🚀 Future Enhancements  
-
-- Real-time data streaming for live sales tracking  
-- Predictive analytics using Python/R integration in Power BI  
-- Automated dashboards with scheduled refreshes and alerts  
-- Advanced customer cohort analysis for retention and churn insights  
-
----
-
-## 📂 Repository Structure  
 Walmart-Sales-Analytics-Dashboard/
 │
+├── 01_Executive_Overview.png
+├── 02_Regional_Analysis.png
+├── 03_Product_Category_Insights.png
+├── 04_Customer_Insights.png
+├── 05_Forecast_Future_Trends.png
 ├── Walmart_sales_dataset.csv
 ├── Walmart_Sales_Dashboard.pbix
-├── /Screenshots
-│ ├── 01_Executive_Overview.png
-│ ├── 03_Product_Category_Insights.png
-│ ├── 04_Customer_Insights.png
-│ └── 05_Forecast_Future_Trends.png
 └── README.md
 
 
 ---
 
-## 📌 How to Use  
+## 📌 How to Use
 
 1. Clone or download this repository  
 2. Open `Walmart_Sales_Dashboard.pbix` in Power BI Desktop  
-3. Connect the dataset: [Walmart Sales Dataset](https://github.com/chanchalpal13885-glitch/Walmart-Sales-Analytics-Dashboard/blob/main/Walmart_sales_dataset.csv)  
-4. Explore dashboard pages using interactive filters, slicers, and drill-downs  
-5. Use insights for reporting, presentations, or case studies  
+3. Connect the dataset: [Walmart Sales Dataset](Walmart_sales_dataset.csv)  
+4. Explore dashboard pages using interactive slicers, filters, and visuals  
+5. Utilize insights for reporting, presentations, or business decision-making  
 
 ---
 
-## 👩‍💻 Author  
+## 👩‍💻 Author
 
 **Chanchal Pal**  
 🎓 Advanced Excel, SQL & Power BI Certified | Data Analyst | BI Enthusiast  
@@ -149,9 +161,7 @@ Walmart-Sales-Analytics-Dashboard/
 
 ---
 
-## ⭐ Support  
+## ⭐ Support
 
-If you find this project helpful, please consider starring ⭐ the repository — it helps continue creating valuable analytics projects!
-
-
+If you find this project valuable, please give it a ⭐ star on GitHub to support my work.
 
