@@ -1,7 +1,5 @@
 # 🛒 Walmart Sales Analytics Dashboard
 
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-blue) ![Excel](https://img.shields.io/badge/Skill-Excel-green) ![SQL](https://img.shields.io/badge/Skill-SQL-yellow) ![Certified](https://img.shields.io/badge/Certification-Power%20BI%20%26%20Excel%20%26%20SQL-blueviolet)  
-
 **Power BI | Enterprise Sales, Profitability & Forecasting Analysis (2011–2014)**  
 
 An interactive Power BI dashboard delivering actionable insights into Walmart’s multi-year sales performance, designed for business leaders, analysts, and data-driven decision-makers.
