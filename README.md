@@ -110,21 +110,21 @@ Predictive insights for strategic planning.
 
 Walmart-Sales-Analytics-Dashboard
 
-├── 01_Executive_Overview.png
-
-├── 02_Regional_Analysis.png
-
-├── 03_Product_Category_Insights.png
-
-├── 04_Customer_Insights.png
-
-├── 05_Forecast_Future_Trends.png
-
-├── Walmart_sales_dataset.csv
-
-├── Walmart_Sales_Dashboard.pbix
-
-└── README.md
+      ├── 01_Executive_Overview.png
+      
+      ├── 02_Regional_Analysis.png
+      
+      ├── 03_Product_Category_Insights.png
+      
+      ├── 04_Customer_Insights.png
+      
+      ├── 05_Forecast_Future_Trends.png
+      
+      ├── Walmart_sales_dataset.csv
+      
+      ├── Walmart_Sales_Dashboard.pbix
+      
+      └── README.md
 
 
 ---
