@@ -109,14 +109,21 @@ Predictive insights for strategic planning.
 ## 📂 Repository Structure
 
 Walmart-Sales-Analytics-Dashboard/
-│
+
 ├── 01_Executive_Overview.png
+
 ├── 02_Regional_Analysis.png
+
 ├── 03_Product_Category_Insights.png
+
 ├── 04_Customer_Insights.png
+
 ├── 05_Forecast_Future_Trends.png
+
 ├── Walmart_sales_dataset.csv
+
 ├── Walmart_Sales_Dashboard.pbix
+
 └── README.md
 
 
@@ -137,9 +144,9 @@ Walmart-Sales-Analytics-Dashboard/
 **Chanchal Pal**  
 🎓 Advanced Excel, SQL & Power BI Certified | Data Analyst | BI Enthusiast  
 
-- **GitHub:** [https://github.com/chanchalpal13885-glitch](https://github.com/chanchalpal13885-glitch)  
-- **LinkedIn:** [https://www.linkedin.com/in/chanchalpal](https://www.linkedin.com/in/chanchalpal)  
-- **Email:** [chanchalpal13885@gmail.com](mailto:chanchalpal13885@gmail.com)  
+- **GitHub:** https://github.com/chanchalpal13885-glitch
+- **LinkedIn:** https://www.linkedin.com/in/chanchalpal
+- **Email:** chanchalpal13885@gmail.com
 
 ---
 
