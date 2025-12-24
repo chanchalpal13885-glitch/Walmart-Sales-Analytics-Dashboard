@@ -108,7 +108,7 @@ Predictive insights for strategic planning.
 
 ## 📂 Repository Structure
 
-Walmart-Sales-Analytics-Dashboard/
+Walmart-Sales-Analytics-Dashboard
 
 ├── 01_Executive_Overview.png
 
